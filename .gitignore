@@ -1,0 +1,4 @@
+/fastapi-env
+/__pycache__
+/Datasets/movies_dataset.csv
+/Datasets/credits.csv
